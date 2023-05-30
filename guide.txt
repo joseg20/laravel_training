@@ -1,0 +1,8 @@
+jose@josegcc:~/QuantSoft/project-name$ php artisan make:rule MatchOldPassword
+
+   INFO  Rule [app/Rules/MatchOldPassword.php] created successfully.  
+
+
+npm run dev
+
+php artisan serve
